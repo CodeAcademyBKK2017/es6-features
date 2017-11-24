@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1511504458283" clover="3.2.0">
+  <project timestamp="1511504458283" name="All files">
+    <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1" elements="13" coveredelements="11" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2">
+      <file name="es6-features.js" path="/Users/chaowalit.kon/Documents/learning/es6-features/es6-features.js">
+        <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="server.js" path="/Users/chaowalit.kon/Documents/learning/es6-features/server.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
