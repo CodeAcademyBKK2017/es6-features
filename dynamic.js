@@ -3,7 +3,6 @@ const generateObject = (customKey, repeat) => {
     for(let i = 1;i <= repeat;i++){
         result [customKey+i]=i;
     }
-    console.log(result);
+    return result;
 }
-//generateObject('test',5);
 module.exports = generateObject;
